@@ -1,0 +1,1 @@
+Tassa on tekstia tarina.txt filea varten. Tassa tiedostossa on tarkoitus olla pitka patka tekstia.
